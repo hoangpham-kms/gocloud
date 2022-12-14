@@ -1,0 +1,1 @@
+This file has been created and push to gocloud repo, after mirror copyGocloud. We will push this file to master by additional remote repo copyGoClound.
